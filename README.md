@@ -1,5 +1,9 @@
 # Shoon Lae Yee Win — Software Engineer Portfolio
 
+This repository contains the static portfolio website published with GitHub Pages.
+
+Live site: `https://shoon-lae-yee-win.github.io/portfolio/`
+
 Welcome to my professional portfolio. I am a Software Engineer with experience in backend, frontend, mobile application development, testing, maintenance, and technical mentoring.
 
 ## About me
