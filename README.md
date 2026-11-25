@@ -50,6 +50,12 @@ These repositories are public examples of my learning and development work:
 
 The website presents these as learning projects. The public .NET repository includes console applications, CRUD practice, HTTP client examples, REST APIs, and a layered API example. Customer systems are not included.
 
+Additional learning repositories shown on the website:
+
+- [architecture-project](https://github.com/Shoon-Lae-Yee-Win/architecture-project)
+- [Coffee_Shop](https://github.com/Shoon-Lae-Yee-Win/Coffee_Shop)
+- [mini_pos_system](https://github.com/Shoon-Lae-Yee-Win/mini_pos_system)
+
 ## How I approach development
 
 1. Clarify the business goal and the user workflow.
