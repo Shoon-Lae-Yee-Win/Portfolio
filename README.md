@@ -48,6 +48,8 @@ These repositories are public examples of my learning and development work:
 - [HtmlProject001](https://github.com/Shoon-Lae-Yee-Win/HtmlProject001)
 - [SLYWDotNetCore](https://github.com/Shoon-Lae-Yee-Win/SLYWDotNetCore)
 
+The website presents these as learning projects. The public .NET repository includes console applications, CRUD practice, HTTP client examples, REST APIs, and a layered API example. Customer systems are not included.
+
 ## How I approach development
 
 1. Clarify the business goal and the user workflow.
