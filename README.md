@@ -25,7 +25,7 @@ I enjoy turning business requirements into clear, maintainable software and cont
 
 ## Professional experience
 
-My professional experience includes business systems for event operations, education and student administration, licensing services, content management, and internship management. These projects are owned by customers or employers, so their source code, production screenshots, data, and detailed business rules are not published here.
+My professional experience includes event operations, a Flutter attendee app, education and student administration, licensing services, content management, and internship management. I have also mentored 22 interns and led industrial training for 17 trainees. These projects are owned by customers or employers, so their source code, production screenshots, data, and detailed business rules are not published here.
 
 In those roles, I contributed to:
 
@@ -43,7 +43,7 @@ Customer and employer projects are intentionally not included in this repository
 
 ## Public sample repositories
 
-These repositories are public examples of my learning and development work:
+The website separates two OJT projects from independent public repositories. The OJT projects were an online shopping system and a social media system. Public examples of my learning and development work include:
 
 - [HtmlProject001](https://github.com/Shoon-Lae-Yee-Win/HtmlProject001)
 - [SLYWDotNetCore](https://github.com/Shoon-Lae-Yee-Win/SLYWDotNetCore)
@@ -55,6 +55,11 @@ Additional learning repositories shown on the website:
 - [architecture-project](https://github.com/Shoon-Lae-Yee-Win/architecture-project)
 - [Coffee_Shop](https://github.com/Shoon-Lae-Yee-Win/Coffee_Shop)
 - [mini_pos_system](https://github.com/Shoon-Lae-Yee-Win/mini_pos_system)
+- [happy_birthday](https://github.com/Shoon-Lae-Yee-Win/happy_birthday)
+- [PHP_Training](https://github.com/Shoon-Lae-Yee-Win/PHP_Training)
+- [Professional_Web_Development_Course](https://github.com/Shoon-Lae-Yee-Win/Professional_Web_Development_Course)
+- [PWD_php](https://github.com/Shoon-Lae-Yee-Win/PWD_php)
+- [rock_star_09_11_2024](https://github.com/Shoon-Lae-Yee-Win/rock_star_09_11_2024)
 
 ## How I approach development
 
